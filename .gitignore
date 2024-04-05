@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+chromedriver-mac-x64/
+.DS_Store
